@@ -91,6 +91,7 @@ def get_cache_key(url, use_selenium=False, selector=None):
     # Convertir a un hash para tener un nombre de archivo válido
     return hashlib.md5(cache_str.encode()).hexdigest()
 
+
 def get_from_cache(cache_key):
     """
     Recupera el contenido del caché si existe y no ha expirado.
@@ -118,6 +119,7 @@ def get_from_cache(cache_key):
     
     return None
 
+
 def save_to_cache(cache_key, html):
     """
     Guarda el contenido HTML en el caché.
@@ -141,6 +143,7 @@ def save_to_cache(cache_key, html):
     except Exception as e:
         logger.warning(f"Error al guardar caché ({cache_key}): {str(e)}")
 
+
 def get_user_agent():
     """
     Devuelve un User-Agent aleatorio.
@@ -152,6 +155,7 @@ def get_user_agent():
         return ua.random
     except:
         return random.choice(USER_AGENTS)
+
 
 @retry(
     retry=retry_if_exception_type((ConnectionError, Timeout, RequestException)),
@@ -291,6 +295,7 @@ def get_html(url, use_selenium=False, wait_time=DEFAULT_WAIT_TIME, selector=None
     
     return None
 
+
 def log_reference(university, purpose, url):
     """
     Registra una URL consultada en el archivo de referencias de manera segura.
@@ -314,6 +319,7 @@ def log_reference(university, purpose, url):
             f.write(f"- [{university} – {purpose}] {url}\n")
     except Exception as e:
         logger.error(f"Error al registrar referencia: {str(e)}")
+
 
 def save_checkpoint(country, university_index, university=None):
     """
@@ -339,6 +345,7 @@ def save_checkpoint(country, university_index, university=None):
     except Exception as e:
         logger.error(f"Error al guardar checkpoint: {str(e)}")
 
+
 def load_checkpoint():
     """
     Carga el último punto de control guardado.
@@ -357,6 +364,7 @@ def load_checkpoint():
     except Exception as e:
         logger.error(f"Error al cargar checkpoint: {str(e)}")
         return None
+
 
 def get_universities_data():
     """
@@ -447,10 +455,13 @@ def get_universities_data():
     
     return countries, universities
 
+
 def log_reference(university, purpose, url):
     """Registra una URL consultada en el archivo de referencias"""
     with open(REFERENCES_FILE, "a", encoding="utf-8") as f:
         f.write(f"- [{university} – {purpose}] {url}\n")
+
+
 
 def get_html(url, use_selenium=False, wait_time=3, selector=None):
     """Obtiene el HTML de una URL, usando Selenium si es necesario"""
@@ -501,11 +512,13 @@ def get_html(url, use_selenium=False, wait_time=3, selector=None):
         logging.error(f"Error obteniendo {url}: {str(e)}")
         return None
 
+
 def normalize_text(text):
     """Normaliza el texto eliminando espacios extra y saltos de línea"""
     if text:
         return re.sub(r'\s+', ' ', text).strip()
     return text
+
 
 def extract_text_with_pattern(html_content, pattern, group=1):
     """Extrae texto usando un patrón regex"""
@@ -674,6 +687,7 @@ def extract_university_info(university_name, university_url, country, city):
         log_reference(university_name, "información general", university_url)
     
     return data
+
 
 def extract_program_info(university_name, university_url, univ_id, fallback=False):
     """
@@ -1011,6 +1025,7 @@ def extract_program_info(university_name, university_url, univ_id, fallback=Fals
     logger.info(f"Extracción de programas completada para {university_name}: {len(programs)} programas encontrados")
     return programs
 
+
 def process_program_page(html, university_name, program_url, univ_id, program_type):
     """Procesa una página de programa para extraer información"""
     soup = BeautifulSoup(html, 'html.parser')
@@ -1277,6 +1292,7 @@ def process_program_page(html, university_name, program_url, univ_id, program_ty
     
     return program
 
+
 def extract_lab_info(university_name, university_url, univ_id):
     """Extrae información sobre laboratorios y centros de investigación"""
     labs = []
@@ -1459,7 +1475,6 @@ def extract_lab_info(university_name, university_url, univ_id):
             logging.error(f"Error extrayendo laboratorios para {university_name}: {str(e)}")
     
     return labs
-
 
 
 def extract_lab_info(university_name, university_url, univ_id, fallback=False):
@@ -2159,10 +2174,6 @@ def extract_lab_info(university_name, university_url, univ_id, fallback=False):
     return labs                            
 
 
-
-
-
-
 def extract_scholarship_info(university_name, university_url, univ_id, fallback=False):
     """
     Extrae información detallada sobre becas y financiamiento disponibles.
@@ -2854,6 +2865,7 @@ def extract_scholarship_info(university_name, university_url, univ_id, fallback=
     logger.info(f"Extracción de becas completada para {university_name}: {len(scholarships)} becas encontradas")
     return scholarships
 
+
 def extract_admission_info(university_name, university_url, univ_id, prog_id=''):
     """Extrae información sobre requisitos de admisión"""
     admission = {
@@ -3014,6 +3026,7 @@ def extract_admission_info(university_name, university_url, univ_id, prog_id='')
             logging.error(f"Error extrayendo requisitos de admisión para {university_name}: {str(e)}")
     
     return admission
+
 
 def extract_cost_living_info(university_name, city, country, univ_id):
     """Extrae información sobre costo de vida"""
@@ -3225,6 +3238,7 @@ def extract_cost_living_info(university_name, city, country, univ_id):
     cost['Student Services'] = typical_services
     
     return cost
+
 
 def extract_outcome_info(university_name, university_url, univ_id, prog_id=''):
     """Extrae información sobre resultados profesionales y empleabilidad"""
@@ -3529,6 +3543,7 @@ def extract_outcome_info(university_name, university_url, univ_id, prog_id=''):
     
     return outcome
 
+
 def create_empty_notes(university_name, univ_id, prog_id=''):
     """Crea un registro vacío para la hoja de notas personales"""
     notes_id = f"NOT{str(abs(hash(university_name + (prog_id or ''))) % 10000).zfill(4)}"
@@ -3548,6 +3563,7 @@ def create_empty_notes(university_name, univ_id, prog_id=''):
     }
     
     return notes
+
 
 def create_empty_timeline(university_name, univ_id, prog_id='', program_name='', deadline='N/A'):
     """Crea un registro vacío para la hoja de cronograma con algunos datos precompletados"""
@@ -3577,6 +3593,7 @@ def create_empty_timeline(university_name, univ_id, prog_id='', program_name='',
     }
     
     return timeline
+
 
 def main():
     """
@@ -3834,6 +3851,7 @@ def main():
     
     return True
 
+
 def write_excel(universities_df, programs_df, labs_df, scholarships_df, 
                admissions_df, costs_df, outcomes_df, notes_df, timeline_df,
                output_file):
@@ -3905,6 +3923,7 @@ def write_excel(universities_df, programs_df, labs_df, scholarships_df,
     except Exception as e:
         logger.error(f"Error al escribir el archivo Excel {output_file}: {str(e)}")
         raise
+
 
 if __name__ == "__main__":
     try:
