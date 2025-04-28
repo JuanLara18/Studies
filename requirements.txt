@@ -3,3 +3,6 @@ openpyxl
 bs4
 selenium
 requests
+webdriver-manager
+fake-useragent
+tenacity
