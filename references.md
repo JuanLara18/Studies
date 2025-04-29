@@ -1,0 +1,592 @@
+# Referencias de Consulta para Universidad_Comparacion_Populated.xlsx
+
+- [Massachusetts Institute of Technology, Estados Unidos – QS Ranking] https://www.topuniversities.com/universities/massachusetts-institute-of-technology,-estados-unidos
+- [Massachusetts Institute of Technology, Estados Unidos – About page] https://www.mit.edu/about
+- [Massachusetts Institute of Technology, Estados Unidos – información general] https://www.mit.edu
+- [Massachusetts Institute of Technology, Estados Unidos – Laboratorio: Admissions + Aid | MIT - Massachusetts Institute of Technology] https://www.mit.edu/admissions-aid
+- [Massachusetts Institute of Technology, Estados Unidos – Laboratorio: Privacy | MIT - Massachusetts Institute of Technology] https://www.mit.edu/privacy
+- [Massachusetts Institute of Technology, Estados Unidos – Programa: MIT Schwarzman College of Computing] http://computing.mit.edu
+- [Massachusetts Institute of Technology, Estados Unidos – Beca Internacional: Fulbright Foreign Student Program] https://foreign.fulbrightonline.org/
+- [Massachusetts Institute of Technology, Estados Unidos – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Massachusetts Institute of Technology, Estados Unidos – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Massachusetts Institute of Technology, Estados Unidos – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Massachusetts Institute of Technology, Estados Unidos – Requisitos de admisión] https://www.mit.edu/admissions
+- [Massachusetts Institute of Technology, Estados Unidos – Costo de vida en Cambridge] https://www.numbeo.com/cost-of-living/in/Cambridge
+- [Massachusetts Institute of Technology, Estados Unidos – Resultados de egresados] https://www.mit.edu/alumni
+- [Massachusetts Institute of Technology, Estados Unidos – Laboratorio: MIT Industrial Liaison Program | ILP] http://ilp.mit.edu/
+- [Stanford University, Estados Unidos – QS Ranking] https://www.topuniversities.com/universities/stanford-university,-estados-unidos
+- [Stanford University, Estados Unidos – About page] https://www.stanford.edu/about/
+- [Stanford University, Estados Unidos – información general] https://www.stanford.edu
+- [Stanford University, Estados Unidos – Laboratorio: Stanford Doerr School of Sustainability] https://sustainability.stanford.edu/
+- [Stanford University, Estados Unidos – Laboratorio: Online Privacy Policy – Stanford University] https://www.stanford.edu/site/privacy
+- [Stanford University, Estados Unidos – Laboratorio: Get Help - SU Services] https://stanford.service-now.com/services?id=get_help&cmdb_ci=915f10561329474019813598d144b00f
+- [Stanford University, Estados Unidos – Beca Internacional: Fulbright Foreign Student Program] https://foreign.fulbrightonline.org/
+- [Stanford University, Estados Unidos – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Stanford University, Estados Unidos – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Stanford University, Estados Unidos – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Stanford University, Estados Unidos – Costo de vida en Stanford] https://www.numbeo.com/cost-of-living/in/Stanford
+- [University of California, Berkeley, Estados Unidos – Laboratorio: Homepage - Financial Aid & Scholarships] https://financialaid.berkeley.edu/
+- [University of California, Berkeley, Estados Unidos – Beca Internacional: Fulbright Foreign Student Program] https://foreign.fulbrightonline.org/
+- [University of California, Berkeley, Estados Unidos – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of California, Berkeley, Estados Unidos – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [University of California, Berkeley, Estados Unidos – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [University of California, Berkeley, Estados Unidos – Costo de vida en Berkeley] https://www.numbeo.com/cost-of-living/in/Berkeley
+- [Carnegie Mellon University, Estados Unidos – QS Ranking] https://www.topuniversities.com/universities/carnegie-mellon-university,-estados-unidos
+- [Carnegie Mellon University, Estados Unidos – About page] https://www.cmu.edu/about/awards.html
+- [Carnegie Mellon University, Estados Unidos – información general] https://www.cmu.edu
+- [Carnegie Mellon University, Estados Unidos – Programa: Academics -     CMU - Carnegie Mellon University] https://www.cmu.edu/academics#SchoolOfComputerScience
+- [Carnegie Mellon University, Estados Unidos – Laboratorio: Home Page - NREC] https://www.nrec.ri.cmu.edu/
+- [Carnegie Mellon University, Estados Unidos – Programa: CMU School of Computer Science] http://www.cs.cmu.edu/
+- [Carnegie Mellon University, Estados Unidos – Programa: Home | Carnegie Mellon University Computer Science Department] http://www.csd.cs.cmu.edu/
+- [Carnegie Mellon University, Estados Unidos – Programa: Machine Learning - CMU - Carnegie Mellon University | @mldcmu] http://www.ml.cmu.edu/
+- [Carnegie Mellon University, Estados Unidos – Programa: Statistics & Data Science -     Statistics & Data Science -     Dietrich College of Humanities and Social Sciences - Carnegie Mellon University] http://www.stat.cmu.edu/
+- [Carnegie Mellon University, Estados Unidos – Programa: index -     Electrical and Computer Engineering -     College of Engineering - Carnegie Mellon University] http://www.ece.cmu.edu/
+- [Carnegie Mellon University, Estados Unidos – Programa: Master of Science in Business Analytics -     Tepper School of Business - Carnegie Mellon University] https://www.cmu.edu/tepper/programs/master-business-analytics/index.html
+- [Carnegie Mellon University, Estados Unidos – Programa: Department of Mathematical Sciences] http://www.math.cmu.edu/
+- [Carnegie Mellon University, Estados Unidos – Beca: Science and Technology Scholarship Program for Overseas Study] https://www.cmu.edu/graduate/funding
+- [Carnegie Mellon University, Estados Unidos – Beca: Rales Fellowship Program] https://www.cmu.edu/graduate/funding
+- [Carnegie Mellon University, Estados Unidos – Beca: Carnegie Bosch Institute Fellowship] https://www.cmu.edu/graduate/funding
+- [Carnegie Mellon University, Estados Unidos – Laboratorio: | CMU Flintbox] http://cmu.flintbox.com
+- [Carnegie Mellon University, Estados Unidos – Requisitos de admisión] https://www.cmu.edu/graduate/admissions
+- [Carnegie Mellon University, Estados Unidos – Costo de vida en Pittsburgh] https://www.numbeo.com/cost-of-living/in/Pittsburgh
+- [Carnegie Mellon University, Estados Unidos – Resultados de egresados] https://www.cmu.edu/career
+- [Cornell University, Estados Unidos – QS Ranking] https://www.topuniversities.com/universities/cornell-university,-estados-unidos
+- [Cornell University, Estados Unidos – About page] https://www.cornell.edu/about
+- [Cornell University, Estados Unidos – información general] https://www.cornell.edu
+- [Cornell University, Estados Unidos – Laboratorio: Energy, Environment & Sustainability | Cornell Chronicle] https://sustainability.cornell.edu/
+- [Cornell University, Estados Unidos – Laboratorio: Snail-inspired robot could scoop ocean microplastics | Cornell Chronicle] https://news.cornell.edu/stories/2023/12/snail-inspired-robot-could-scoop-ocean-microplastics
+- [Cornell University, Estados Unidos – Beca Internacional: Fulbright Foreign Student Program] https://foreign.fulbrightonline.org/
+- [Cornell University, Estados Unidos – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Cornell University, Estados Unidos – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Cornell University, Estados Unidos – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Cornell University, Estados Unidos – Requisitos de admisión] https://www.cornell.edu/admissions
+- [Cornell University, Estados Unidos – Costo de vida en Ithaca] https://www.numbeo.com/cost-of-living/in/Ithaca
+- [Cornell University, Estados Unidos – Resultados de egresados] https://www.cornell.edu/alumni
+- [Universidad Politécnica de Madrid, España – QS Ranking] https://www.topuniversities.com/universities/universidad-politécnica-de-madrid,-españa
+- [Universidad Politécnica de Madrid, España – información general] https://www.upm.es
+- [Universidad Politécnica de Madrid, España – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Universidad Politécnica de Madrid, España – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Universidad Politécnica de Madrid, España – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Universidad Politécnica de Madrid, España – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Universidad Politécnica de Madrid, España – Costo de vida en Madrid] https://www.numbeo.com/cost-of-living/in/Madrid
+- [Universidad Complutense de Madrid, España – QS Ranking] https://www.topuniversities.com/universities/universidad-complutense-de-madrid,-españa
+- [Universidad Complutense de Madrid, España – información general] https://www.ucm.es
+- [Universidad Complutense de Madrid, España – Laboratorio: UCM-Consejo Social de la UCM] https://www.ucm.es/consejosocial
+- [Universidad Complutense de Madrid, España – Laboratorio: Defensoría Universitaria | Universidad Complutense de Madrid] https://www.ucm.es/defensoria-universitaria
+- [Universidad Complutense de Madrid, España – Programa: Facultad de Informática] https://www.ucm.es/informatica
+- [Universidad Complutense de Madrid, España – Programa: Máster Universitario en Administración y Dirección de Empresas - MBA] https://www.ucm.es/mba
+- [Universidad Complutense de Madrid, España – Programa: Mathematical Science] https://www.ucm.es/mathematics
+- [Universidad Complutense de Madrid, España – Beca: Ayuda para estudios universitarios de familiares del personal UCM] https://www.ucm.es/ayudas
+- [Universidad Complutense de Madrid, España – Beca: Ayudas al Transporte 2025] https://www.ucm.es/ayudas
+- [Universidad Complutense de Madrid, España – Beca: Ayudas Matrícula] https://www.ucm.es/estudiantes/becas
+- [Universidad Complutense de Madrid, España – Beca: Becas
+
+Máster] https://www.ucm.es/estudiantes/becas
+- [Universidad Complutense de Madrid, España – Beca: Becas y Ayudas] https://www.ucm.es/estudiantes/becas
+- [Universidad Complutense de Madrid, España – Costo de vida en Madrid] https://www.numbeo.com/cost-of-living/in/Madrid
+- [Universidad Complutense de Madrid, España – Laboratorio: Comité de Bioseguridad (CB) | Universidad Complutense de Madrid] https://www.ucm.es/comite-de-bioseguridad
+- [Universidad Politécnica de Cataluña, España – QS Ranking] https://www.topuniversities.com/universities/universidad-politécnica-de-cataluña,-españa
+- [Universidad Politécnica de Cataluña, España – About page] https://www.unite-university.eu/students/unitestudentcatalogue
+- [Universidad Politécnica de Cataluña, España – información general] https://www.upc.edu
+- [Universidad Politécnica de Cataluña, España – Laboratorio: European artificial intelligence leaders meet at the UPC in Barcelona to promote the use of this technology in the EU - UPC Universitat Politècnica de Catalunya] https://www.upc.edu/en/press-room/news/european-leaders-in-artificial-intelligence-meet-at-upc-in-barcelona-to-promote-the-use-of-this-technology-in-the-eu
+- [Universidad Politécnica de Cataluña, España – Laboratorio: Cessió temporal d'espais i instal·lacions - UPC Universitat Politècnica de Catalunya] https://www.upc.edu/ca/empresa/cessio-temporal-despais
+- [Universidad Politécnica de Cataluña, España – Laboratorio: Launch of CYBERCAT, an interuniversity research centre for cybersecurity and data privacy - UPC Universitat Politècnica de Catalunya] https://www.upc.edu/en/press-room/news/launch-of-cybercat-an-interuniversity-research-centre-for-cybersecurity-and-data-privacy
+- [Universidad Politécnica de Cataluña, España – Laboratorio: Dos nuevas 'spin-offs' de la UPC en los campos de la neurociencia computacional y la ciberseguridad - UPC Universitat Politècnica de Catalunya] https://www.upc.edu/es/sala-de-prensa/noticias/dos-nuevas-spin-offs-de-la-upc-en-los-campos-de-la-neurociencia-computacional-y-la-ciberseguridad
+- [Universidad Politécnica de Cataluña, España – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Universidad Politécnica de Cataluña, España – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Universidad Politécnica de Cataluña, España – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Universidad Politécnica de Cataluña, España – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Universidad Politécnica de Cataluña, España – Costo de vida en Barcelona] https://www.numbeo.com/cost-of-living/in/Barcelona
+- [Universidad de Barcelona, España – QS Ranking] https://www.topuniversities.com/universities/universidad-de-barcelona,-españa
+- [Universidad de Barcelona, España – About page] https://www.linkedin.com/school/university-of-barcelona/mycompany/
+- [Universidad de Barcelona, España – información general] https://www.ub.edu
+- [Universidad de Barcelona, España – Laboratorio: Vols llogar un espai a la UB? | Lloguer d'espais de la Universitat de Barcelona] http://www.ub.edu/espais
+- [Universidad de Barcelona, España – Laboratorio: Academia & Research Data Solutions | Clarivate] https://clarivate.com/researcher-recognition/
+- [Universidad de Barcelona, España – Programa: Inici - Consell Social - Universitat de Barcelona] https://www.ub.edu/cs
+- [Universidad de Barcelona, España – Programa: Data Science - Universitat de Barcelona] https://www.ub.edu/datascience
+- [Universidad de Barcelona, España – Laboratorio: Resources - University of Barcelona] https://web.ub.edu/en/recursos#formacio
+- [Universidad de Barcelona, España – Beca: Jordi Díaz receives the City of Benicarló Literary Award on scientific dissemination] https://www.ub.edu/en/scholarships
+- [Universidad de Barcelona, España – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Universidad de Barcelona, España – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Universidad de Barcelona, España – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Universidad de Barcelona, España – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Universidad de Barcelona, España – Costo de vida en Barcelona] https://www.numbeo.com/cost-of-living/in/Barcelona
+- [Universidad de Granada, España – QS Ranking] https://www.topuniversities.com/universities/universidad-de-granada,-españa
+- [Universidad de Granada, España – información general] https://www.ugr.es
+- [Universidad de Granada, España – Laboratorio: Historia de la Universidad de Granada | Universidad de Granada] https://www.ugr.es/universidad/historia/
+- [Universidad de Granada, España – Laboratorio: Noticias | Universidad de Granada] https://www.ugr.es/universidad/noticias
+- [Universidad de Granada, España – Laboratorio: Terms of Use and Privacy | Universidad de Granada] https://www.ugr.es/en/terms-of-use-privacy
+- [Universidad de Granada, España – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Universidad de Granada, España – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Universidad de Granada, España – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Universidad de Granada, España – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Universidad de Granada, España – Costo de vida en Granada] https://www.numbeo.com/cost-of-living/in/Granada
+- [University of Oxford, Reino Unido – QS Ranking] https://www.topuniversities.com/universities/university-of-oxford,-reino-unido
+- [University of Oxford, Reino Unido – About page] https://www.ox.ac.uk/about/divisions-and-departments
+- [University of Oxford, Reino Unido – información general] https://www.ox.ac.uk
+- [University of Oxford, Reino Unido – Laboratorio: New hub launched to explore use of Artificial Intelligence in Education | University of Oxford] https://www.ox.ac.uk/news/2024-12-12-new-hub-launched-explore-use-artificial-intelligence-education
+- [University of Oxford, Reino Unido – Laboratorio: Oxford and OpenAI launch collaboration to advance research and education | University of Oxford] https://www.ox.ac.uk/news/2025-03-04-oxford-and-openai-launch-collaboration-advance-research-and-education
+- [University of Oxford, Reino Unido – Laboratorio: Men more willing than women to accept robot care in old age, Oxford study finds | University of Oxford] https://www.ox.ac.uk/news/2024-11-14-men-more-willing-women-accept-robot-care-old-age-oxford-study-finds
+- [University of Oxford, Reino Unido – Laboratorio: New UKRI-funded network to bolster UK’s cyber security research ecosystem | University of Oxford] https://www.ox.ac.uk/news/2024-11-12-new-ukri-funded-network-bolster-uk-s-cyber-security-research-ecosystem
+- [University of Oxford, Reino Unido – Laboratorio: Data protection | University of Oxford] https://www.ox.ac.uk/about/organisation/governance/dataprotection
+- [University of Oxford, Reino Unido – Programa: Admissions statistics | University of Oxford] https://www.ox.ac.uk/about/facts-and-figures/admissions-statistics
+- [University of Oxford, Reino Unido – Beca: Annual Bursary] https://www.ox.ac.uk/scholarships
+- [University of Oxford, Reino Unido – Beca: UK students requiring financial assistance to meet funding shortfalls] https://www.ox.ac.uk/scholarships
+- [University of Oxford, Reino Unido – Beca: Scholarship] https://www.ox.ac.uk/scholarships
+- [University of Oxford, Reino Unido – Beca: Oxford Travel Supplement for UK bursary holders] https://www.ox.ac.uk/scholarships
+- [University of Oxford, Reino Unido – Beca: Fees, funding and scholarship search] https://www.ox.ac.uk/scholarships
+- [University of Oxford, Reino Unido – Requisitos de admisión] https://www.ox.ac.uk/admissions
+- [University of Oxford, Reino Unido – Costo de vida en Oxford] https://www.numbeo.com/cost-of-living/in/Oxford
+- [University of Oxford, Reino Unido – Resultados de egresados] https://www.ox.ac.uk/careers
+- [University of Oxford, Reino Unido – Laboratorio: Pandemic Data Science | Oxford University Department for Continuing Education] https://www.conted.ox.ac.uk/courses/pandemic-data-science
+- [University of Cambridge, Reino Unido – QS Ranking] https://www.topuniversities.com/universities/university-of-cambridge,-reino-unido
+- [University of Cambridge, Reino Unido – About page] https://www.cam.ac.uk/about-the-university/contact-the-university?ucam-ref=home-menu
+- [University of Cambridge, Reino Unido – información general] https://www.cam.ac.uk
+- [University of Cambridge, Reino Unido – Laboratorio: Cambridge is shaping AI for everyone] https://www.cam.ac.uk/ai
+- [University of Cambridge, Reino Unido – Laboratorio: Opinion: Universities play a vital role in the future of AI] https://www.cam.ac.uk/stories/Neil-Lawrence-Jess-Montgomery-AI
+- [University of Cambridge, Reino Unido – Laboratorio: Privacy notice for our emails to you | Communications | University of Cambridge] https://www.communications.cam.ac.uk/campaigns/privacy-notice-our-emails-to-you
+- [University of Cambridge, Reino Unido – Laboratorio: Privacy policy | University of Cambridge] https://www.cam.ac.uk/about-this-site/privacy-policy?ucam-ref=global-footer
+- [University of Cambridge, Reino Unido – Programa: Department of Computer Science and Technology |] https://www.cst.cam.ac.uk/
+- [University of Cambridge, Reino Unido – Programa: Welcome to Mathematics in Cambridge | Faculty of Mathematics] https://www.maths.cam.ac.uk/
+- [University of Cambridge, Reino Unido – Programa: DAMTP | Department of Applied Mathematics and Theoretical Physics] http://www.damtp.cam.ac.uk/
+- [University of Cambridge, Reino Unido – Programa: Welcome to DPMMS | Department of Pure Mathematics and Mathematical Statistics] http://www.dpmms.cam.ac.uk/
+- [University of Cambridge, Reino Unido – Programa: Isaac Newton Institute for Mathematical Sciences] https://www.newton.ac.uk/
+- [University of Cambridge, Reino Unido – Programa: MRC Biostatistics Unit |] https://www.mrc-bsu.cam.ac.uk/
+- [University of Cambridge, Reino Unido – Programa: Index | Statistical Laboratory] http://www.statslab.cam.ac.uk/
+- [University of Cambridge, Reino Unido – Beca Internacional: Chevening Scholarships] https://www.chevening.org/
+- [University of Cambridge, Reino Unido – Beca Internacional: Gates Cambridge Scholarship] https://www.gatescambridge.org/
+- [University of Cambridge, Reino Unido – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [University of Cambridge, Reino Unido – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of Cambridge, Reino Unido – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [University of Cambridge, Reino Unido – Requisitos de admisión] https://www.cam.ac.uk/admissions
+- [University of Cambridge, Reino Unido – Costo de vida en Cambridge] https://www.numbeo.com/cost-of-living/in/Cambridge
+- [University of Cambridge, Reino Unido – Resultados de egresados] https://www.cam.ac.uk/careers
+- [Imperial College London, Reino Unido – QS Ranking] https://www.topuniversities.com/universities/imperial-college-london,-reino-unido
+- [Imperial College London, Reino Unido – About page] https://www.imperial.ac.uk/about-the-site/accessibility/
+- [Imperial College London, Reino Unido – información general] https://www.imperial.ac.uk
+- [Imperial College London, Reino Unido – Programa: Test of Mathematics for University Admissions (TMUA) | Study | Imperial College London] https://www.imperial.ac.uk/study/apply/undergraduate/process/admissions-tests/tmua/
+- [Imperial College London, Reino Unido – Laboratorio: Sustainable Imperial | About | Imperial College London] https://www.imperial.ac.uk/about/sustainability/
+- [Imperial College London, Reino Unido – Laboratorio: Sustain world class core academic disciplines | Research | Imperial College London] https://www.imperial.ac.uk/research-and-innovation/about-imperial-research/enduring-excellence-in-research/our-approach/sustain-world-class-core-academic-disciplines/
+- [Imperial College London, Reino Unido – Laboratorio: Data storage and security | Research | Imperial College London] https://www.imperial.ac.uk/research-and-innovation/support-for-staff/scholarly-communication/research-data-management/data-storage-and-security/
+- [Imperial College London, Reino Unido – Laboratorio: Research Security | Research | Imperial College London] https://www.imperial.ac.uk/research-and-innovation/support-for-staff/research-office/research-security/
+- [Imperial College London, Reino Unido – Beca: Application deadline] https://www.imperial.ac.uk/scholarships
+- [Imperial College London, Reino Unido – Beca: Academic year] https://www.imperial.ac.uk/scholarships
+- [Imperial College London, Reino Unido – Beca: Award value] https://www.imperial.ac.uk/scholarships
+- [Imperial College London, Reino Unido – Beca: Available to] https://www.imperial.ac.uk/scholarships
+- [Imperial College London, Reino Unido – Beca: Loans and grants] https://www.imperial.ac.uk/fees-and-funding
+- [Imperial College London, Reino Unido – Costo de vida en London] https://www.numbeo.com/cost-of-living/in/London
+- [Imperial College London, Reino Unido – Resultados de egresados] https://www.imperial.ac.uk/careers
+- [University College London, Reino Unido – QS Ranking] https://www.topuniversities.com/universities/university-college-london,-reino-unido
+- [University College London, Reino Unido – About page] https://www.ucl.ac.uk/about
+- [University College London, Reino Unido – información general] https://www.ucl.ac.uk
+- [University College London, Reino Unido – Programa: Bookings] https://outlook.office365.com/book/Booka121StatisticsforClinicalTrialsMSc@live.ucl.ac.uk/
+- [University College London, Reino Unido – Laboratorio: Geoengineering technique could cool planet using existing aircraft | UCL News - UCL – University College London] https://www.ucl.ac.uk/news/2025/apr/geoengineering-technique-could-cool-planet-using-existing-aircraft
+- [University College London, Reino Unido – Laboratorio: Empathy might be retained in Alzheimer’s disease | UCL News - UCL – University College London] https://www.ucl.ac.uk/news/2025/apr/empathy-might-be-retained-alzheimers-disease
+- [University College London, Reino Unido – Laboratorio: Privacy | Legal Services - UCL – University College London] https://www.ucl.ac.uk/legal-services/privacy
+- [University College London, Reino Unido – Beca: Teacher training funding] https://www.ucl.ac.uk/scholarships
+- [University College London, Reino Unido – Beca: UCL Scholarships and funding] https://www.ucl.ac.uk/scholarships
+- [University College London, Reino Unido – Beca: Scholarships Finder] https://www.ucl.ac.uk/scholarships
+- [University College London, Reino Unido – Beca: US Student Financial Aid] https://www.ucl.ac.uk/scholarships
+- [University College London, Reino Unido – Beca: Funding your Master's] https://www.ucl.ac.uk/graduate/funding
+- [University College London, Reino Unido – Requisitos de admisión] https://www.ucl.ac.uk/admissions
+- [University College London, Reino Unido – Costo de vida en London] https://www.numbeo.com/cost-of-living/in/London
+- [University College London, Reino Unido – Resultados de egresados] https://www.ucl.ac.uk/careers
+- [University of Edinburgh, Reino Unido – QS Ranking] https://www.topuniversities.com/universities/university-of-edinburgh,-reino-unido
+- [University of Edinburgh, Reino Unido – About page] https://www.ed.ac.uk/about
+- [University of Edinburgh, Reino Unido – información general] https://www.ed.ac.uk
+- [University of Edinburgh, Reino Unido – Laboratorio: Harnessing digital, data and AI - Edinburgh Impact | The University of Edinburgh] https://impact.ed.ac.uk/category/research/digital-data-ai/
+- [University of Edinburgh, Reino Unido – Laboratorio: Complaint Handling Procedure | University Secretary's Group] https://www.ed.ac.uk/university-secretary-group/complaint-handling-procedure
+- [University of Edinburgh, Reino Unido – Laboratorio: Privacy information for EdWeb 2.0 | The University of Edinburgh] https://edin.ac/privacy-information
+- [University of Edinburgh, Reino Unido – Programa: School of Informatics | School of Informatics] https://www.ed.ac.uk/informatics
+- [University of Edinburgh, Reino Unido – Programa: Data Science Education Centre of Excellence | Data Science Education Centre of Excellence] https://www.ed.ac.uk/data-science
+- [University of Edinburgh, Reino Unido – Programa: Mathematics | The University of Edinburgh] https://www.ed.ac.uk/mathematics
+- [University of Edinburgh, Reino Unido – Beca Internacional: Chevening Scholarships] https://www.chevening.org/
+- [University of Edinburgh, Reino Unido – Beca Internacional: Gates Cambridge Scholarship] https://www.gatescambridge.org/
+- [University of Edinburgh, Reino Unido – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [University of Edinburgh, Reino Unido – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of Edinburgh, Reino Unido – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [University of Edinburgh, Reino Unido – Requisitos de admisión] https://www.ed.ac.uk/admissions
+- [University of Edinburgh, Reino Unido – Costo de vida en Edinburgh] https://www.numbeo.com/cost-of-living/in/Edinburgh
+- [University of Edinburgh, Reino Unido – Resultados de egresados] https://www.ed.ac.uk/careers
+- [University of Toronto, Canadá – QS Ranking] https://www.topuniversities.com/universities/university-of-toronto,-canadá
+- [University of Toronto, Canadá – About page] https://www.utoronto.ca/about-u-of-t
+- [University of Toronto, Canadá – información general] https://www.utoronto.ca
+- [University of Toronto, Canadá – Laboratorio: Redirecting] https://mail.utoronto.ca/
+- [University of Toronto, Canadá – Laboratorio: Future Students | University of Toronto] https://www.utoronto.ca/future-students
+- [University of Toronto, Canadá – Laboratorio: Privacy | University of Toronto] https://www.utoronto.ca/privacy
+- [University of Toronto, Canadá – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of Toronto, Canadá – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [University of Toronto, Canadá – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [University of Toronto, Canadá – Costo de vida en Toronto] https://www.numbeo.com/cost-of-living/in/Toronto
+- [University of Toronto, Canadá – Resultados de egresados] https://www.utoronto.ca/alumni
+- [University of Waterloo, Canadá – QS Ranking] https://www.topuniversities.com/universities/university-of-waterloo,-canadá
+- [University of Waterloo, Canadá – About page] https://uwaterloo.ca/about/
+- [University of Waterloo, Canadá – información general] https://uwaterloo.ca
+- [University of Waterloo, Canadá – Laboratorio: Waterloo researcher awarded Tier 1 Canada Research Chair in Bone Health and Exercise Science | Research | University of Waterloo] https://uwaterloo.ca/research/news/waterloo-researcher-awarded-tier-1-canada-research-chair
+- [University of Waterloo, Canadá – Laboratorio: Events | Research | University of Waterloo] https://uwaterloo.ca/research/events?tags[91]=91
+- [University of Waterloo, Canadá – Programa: David R. Cheriton School of Computer Science | Cheriton School of Computer Science | University of Waterloo] https://uwaterloo.ca/cs
+- [University of Waterloo, Canadá – Programa: Welcome to Data Analytics Lab | Data Analytics | University of Waterloo] https://uwaterloo.ca/data-analytics
+- [University of Waterloo, Canadá – Programa: A powerhouse of discovery and innovation | Mathematics | University of Waterloo] https://uwaterloo.ca/math
+- [University of Waterloo, Canadá – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of Waterloo, Canadá – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [University of Waterloo, Canadá – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [University of Waterloo, Canadá – Requisitos de admisión] https://uwaterloo.ca/admissions
+- [University of Waterloo, Canadá – Costo de vida en Waterloo] https://www.numbeo.com/cost-of-living/in/Waterloo
+- [University of Waterloo, Canadá – Resultados de egresados] https://uwaterloo.ca/careers
+- [University of British Columbia, Canadá – QS Ranking] https://www.topuniversities.com/universities/university-of-british-columbia,-canadá
+- [University of British Columbia, Canadá – About page] https://www.ubc.ca/about/
+- [University of British Columbia, Canadá – información general] https://www.ubc.ca
+- [University of British Columbia, Canadá – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of British Columbia, Canadá – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [University of British Columbia, Canadá – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [University of British Columbia, Canadá – Requisitos de admisión] https://www.ubc.ca/admissions
+- [University of British Columbia, Canadá – Costo de vida en Vancouver] https://www.numbeo.com/cost-of-living/in/Vancouver
+- [University of British Columbia, Canadá – Resultados de egresados] https://www.ubc.ca/careers
+- [McGill University, Canadá – QS Ranking] https://www.topuniversities.com/universities/mcgill-university,-canadá
+- [McGill University, Canadá – About page] https://www.mcgill.ca/about/
+- [McGill University, Canadá – información general] https://www.mcgill.ca
+- [McGill University, Canadá – Laboratorio: Federal Research Chair Programs | Research and Innovation - McGill University] https://www.mcgill.ca/research/about/chairs
+- [McGill University, Canadá – Laboratorio: Research and Innovation - McGill University] https://www.mcgill.ca/research/
+- [McGill University, Canadá – Laboratorio: Cookie Notice | McGill University] https://www.mcgill.ca/cookie-notice
+- [McGill University, Canadá – Laboratorio: Research Security and Compliance | Research and Innovation - McGill University] https://www.mcgill.ca/research/about/research-security-compliance
+- [McGill University, Canadá – Laboratorio: Research Security | Research and Innovation - McGill University] https://www.mcgill.ca/research/research/researchsecurity
+- [McGill University, Canadá – Programa: Course Catalogue | Course Catalogue - McGill University] https://www.mcgill.ca/study/computerscience
+- [McGill University, Canadá – Programa: Master of Business Administration (MBA) | McGill Desautels Faculty of Management - McGill University] https://www.mcgill.ca/mba
+- [McGill University, Canadá – Programa: Course Catalogue | Course Catalogue - McGill University] https://www.mcgill.ca/study/mathematics
+- [McGill University, Canadá – Requisitos de admisión] https://www.mcgill.ca/admissions
+- [McGill University, Canadá – Costo de vida en Montreal] https://www.numbeo.com/cost-of-living/in/Montreal
+- [McGill University, Canadá – Resultados de egresados] https://www.mcgill.ca/careers
+- [McGill University, Canadá – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [McGill University, Canadá – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [McGill University, Canadá – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [University of Alberta, Canadá – QS Ranking] https://www.topuniversities.com/universities/university-of-alberta,-canadá
+- [University of Alberta, Canadá – About page] https://www.ualberta.ca/about/index.html
+- [University of Alberta, Canadá – información general] https://www.ualberta.ca
+- [University of Alberta, Canadá – Laboratorio: Video Spotlight: Demystifying artificial intelligence by design | Folio] https://www.ualberta.ca/en/folio/2024/10/video-demystifying-ai-by-design.html
+- [University of Alberta, Canadá – Laboratorio: Deep learning methods lose their ability to learn over time | Folio] https://www.ualberta.ca/en/folio/2024/10/deep-learning-methods-lose-their-ability-to-learn-over-time.html
+- [University of Alberta, Canadá – Laboratorio: Can you really collaborate with a robot? This PhD grad is working on it | Folio] https://www.ualberta.ca/en/folio/2024/11/can-you-really-collaborate-with-a-robot.html
+- [University of Alberta, Canadá – Programa: Computing Science] https://www.ualberta.ca/en/computing-science/index.html
+- [University of Alberta, Canadá – Programa: Artificial Intelligence | Research + Innovation] https://www.ualberta.ca/en/research/our-research/artificial-intelligence.html
+- [University of Alberta, Canadá – Laboratorio: Campus Security | University of Alberta] https://www.ualberta.ca/en/campus-life/campus-security.html
+- [University of Alberta, Canadá – Laboratorio: Privacy | University of Alberta] https://www.ualberta.ca/en/privacy.html
+- [University of Alberta, Canadá – Programa: Using Artificial Intelligence at the U of A | University of Alberta] https://www.ualberta.ca/artificial-intelligence.html
+- [University of Alberta, Canadá – Programa: Electrical and Computer Engineering] https://www.ualberta.ca/en/engineering/electrical-computer-engineering/index.html
+- [University of Alberta, Canadá – Programa: Accounting and Business Analytics] https://www.ualberta.ca/en/accounting-business-analytics/index.html
+- [University of Alberta, Canadá – Programa: Mathematical and Statistical Sciences] https://www.ualberta.ca/en/mathematical-and-statistical-sciences/index.html
+- [University of Alberta, Canadá – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of Alberta, Canadá – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [University of Alberta, Canadá – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [University of Alberta, Canadá – Requisitos de admisión] https://www.ualberta.ca/admissions
+- [University of Alberta, Canadá – Costo de vida en Edmonton] https://www.numbeo.com/cost-of-living/in/Edmonton
+- [University of Alberta, Canadá – Resultados de egresados] https://www.ualberta.ca/careers
+- [Technical University of Munich, Alemania – QS Ranking] https://www.topuniversities.com/universities/technical-university-of-munich,-alemania
+- [Technical University of Munich, Alemania – About page] https://www.tum.de/en/news-and-events/events/event-overview
+- [Technical University of Munich, Alemania – información general] https://www.tum.de/en
+- [Technical University of Munich, Alemania – Laboratorio: Artificial Intelligence and Machine Learning | TUM - TUM] https://www.tum.de/en/research/research-goals/digitalization-ai-and-quantum-technologies/artificial-intelligence
+- [Technical University of Munich, Alemania – Laboratorio: TUM Sustainability Day 2024 - TUM] https://www.tum.de/en/about-tum/goals-and-values/sustainability/sustainability-day-2024
+- [Technical University of Munich, Alemania – Laboratorio: Privacy Policy - TUM] https://www.tum.de/en/privacy-policy
+- [Technical University of Munich, Alemania – Programa: Artificial Intelligence and Machine Learning | TUM - TUM] https://www.tum.de/en/research/research-goals/digitalization-ai-and-quantum-technologies/artificial-intelligence
+- [Technical University of Munich, Alemania – Beca Internacional: DAAD Scholarships] https://www.daad.de/en/
+- [Technical University of Munich, Alemania – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Technical University of Munich, Alemania – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Technical University of Munich, Alemania – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Technical University of Munich, Alemania – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Technical University of Munich, Alemania – Costo de vida en Munich] https://www.numbeo.com/cost-of-living/in/Munich
+- [RWTH Aachen University, Alemania – Beca Internacional: DAAD Scholarships] https://www.daad.de/en/
+- [RWTH Aachen University, Alemania – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [RWTH Aachen University, Alemania – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [RWTH Aachen University, Alemania – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [RWTH Aachen University, Alemania – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [RWTH Aachen University, Alemania – Costo de vida en Aachen] https://www.numbeo.com/cost-of-living/in/Aachen
+- [Karlsruhe Institute of Technology, Alemania – QS Ranking] https://www.topuniversities.com/universities/karlsruhe-institute-of-technology,-alemania
+- [Karlsruhe Institute of Technology, Alemania – About page] https://www.kit.edu/kit/english/university-of-excellence.php
+- [Karlsruhe Institute of Technology, Alemania – información general] https://www.kit.edu/english/
+- [Karlsruhe Institute of Technology, Alemania – Laboratorio: KIT - Karriere - Verwaltung und Infrastruktur - Technische Infrastruktur - Trainee technische Infrastruktur] https://www.kit.edu/karriere/trainee-technische-infrastruktur.php
+- [Karlsruhe Institute of Technology, Alemania – Laboratorio: KIT - KIT - Media - Press Releases - Archive Press Releases - PI 2017 - Studying the Asian Monsoon with a High-Altitude Aircraft] https://www.kit.edu/kit/english/pi_2017_108_studying-the-asian-monsoon-with-a-high-altitude-aircraft.php
+- [Karlsruhe Institute of Technology, Alemania – Laboratorio: KIT - KIT - Media - Press Releases - Archive Press Releases - PI 2021 - KIT Strengthens IT Security Research] https://www.kit.edu/kit/english/pi_2021_28543.php
+- [Karlsruhe Institute of Technology, Alemania – Laboratorio: KIT - Das KIT - Datenschutz] https://www.kit.edu/datenschutz.php
+- [Karlsruhe Institute of Technology, Alemania – Laboratorio: KIT - KIT - Media - Press Releases - Archive Press Releases - PI 2017 - Big Data: Large-area Measurement Network for Fine Dust] https://www.kit.edu/kit/english/pi_2017_145_big-data-large-area-measurement-network-for-fine-dust.php
+- [Karlsruhe Institute of Technology, Alemania – Programa: KIT - Dienstleistungseinheit Studium und Lehre - Startseite] https://www.kit.edu/study/computerscience
+- [Karlsruhe Institute of Technology, Alemania – Programa: KIT - Dienstleistungseinheit Studium und Lehre - Startseite] https://www.kit.edu/study/analytics
+- [Karlsruhe Institute of Technology, Alemania – Programa: KIT - Dienstleistungseinheit Studium und Lehre - Startseite] https://www.kit.edu/study/mathematics
+- [Karlsruhe Institute of Technology, Alemania – Beca Internacional: DAAD Scholarships] https://www.daad.de/en/
+- [Karlsruhe Institute of Technology, Alemania – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Karlsruhe Institute of Technology, Alemania – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Karlsruhe Institute of Technology, Alemania – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Karlsruhe Institute of Technology, Alemania – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Karlsruhe Institute of Technology, Alemania – Costo de vida en Karlsruhe] https://www.numbeo.com/cost-of-living/in/Karlsruhe
+- [Heidelberg University, Alemania – QS Ranking] https://www.topuniversities.com/universities/heidelberg-university,-alemania
+- [Heidelberg University, Alemania – About page] https://www.uni-heidelberg.de/en/university
+- [Heidelberg University, Alemania – información general] https://www.uni-heidelberg.de/en
+- [Heidelberg University, Alemania – Laboratorio: Universität Heidelberg: Outstanding Placings in Shanghai Subject Ranking - Heidelberg University] https://www.uni-heidelberg.de/en/newsroom/universitat-heidelberg-outstanding-placings-in-shanghai-subject-ranking
+- [Heidelberg University, Alemania – Laboratorio: Privacy Statement - Heidelberg University] https://www.uni-heidelberg.de/en/privacy-statement
+- [Heidelberg University, Alemania – Programa: Fakultät für Mathematik und Informatik] https://www.uni-heidelberg.de/math
+- [Heidelberg University, Alemania – Beca: Target groups: Researchers from universities with previous DFG funding] https://www.uni-heidelberg.de/en/funding
+- [Heidelberg University, Alemania – Beca: Funding: To put scientific findings and results of basic research into practice] https://www.uni-heidelberg.de/en/funding
+- [Heidelberg University, Alemania – Beca: Funding: To further develop activities in science communication.] https://www.uni-heidelberg.de/en/funding
+- [Heidelberg University, Alemania – Beca: Funding: Additional support for Heidelberg's cultural scene] https://www.uni-heidelberg.de/en/funding
+- [Heidelberg University, Alemania – Costo de vida en Heidelberg] https://www.numbeo.com/cost-of-living/in/Heidelberg
+- [Heidelberg University, Alemania – Resultados de egresados] https://www.uni-heidelberg.de/en/alumni
+- [Ludwig Maximilian University of Munich, Alemania – QS Ranking] https://www.topuniversities.com/universities/ludwig-maximilian-university-of-munich,-alemania
+- [Ludwig Maximilian University of Munich, Alemania – About page] https://www.lmu.de/en/about-lmu/
+- [Ludwig Maximilian University of Munich, Alemania – información general] https://www.lmu.de/en/
+- [Ludwig Maximilian University of Munich, Alemania – Laboratorio: Research - LMU Munich] https://www.lmu.de/en/research/
+- [Ludwig Maximilian University of Munich, Alemania – Laboratorio: Study - LMU Munich] https://www.lmu.de/en/study/
+- [Ludwig Maximilian University of Munich, Alemania – Laboratorio: Privacy policy - LMU Munich] https://www.lmu.de/en/footer/privacy-policy/
+- [Ludwig Maximilian University of Munich, Alemania – Beca Internacional: DAAD Scholarships] https://www.daad.de/en/
+- [Ludwig Maximilian University of Munich, Alemania – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Ludwig Maximilian University of Munich, Alemania – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Ludwig Maximilian University of Munich, Alemania – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Ludwig Maximilian University of Munich, Alemania – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Ludwig Maximilian University of Munich, Alemania – Costo de vida en Munich] https://www.numbeo.com/cost-of-living/in/Munich
+- [ETH Zurich, Suiza – QS Ranking] https://www.topuniversities.com/universities/eth-zurich,-suiza
+- [ETH Zurich, Suiza – información general] https://ethz.ch/en.html
+- [ETH Zurich, Suiza – Laboratorio: Artificial Intelligence for Switzerland | ETH Zurich] https://ethz.ch/en/news-and-events/featured-topics/artificial-intelligence-for-switzerland.html
+- [ETH Zurich, Suiza – Laboratorio: Blog posts on sustainability | ETH Zurich] https://ethz.ch/en/news-and-events/zukunftsblog/sustainability.html
+- [ETH Zurich, Suiza – Laboratorio: Data Science Internship with PMOD/WRC | ETH Zurich] https://ethz.ch/en/the-eth-zurich/global/network/eth-studios/eth-studio-davos/data-science-internship-with-pmod-wrc-tsi.html
+- [ETH Zurich, Suiza – Laboratorio: Data Science Internship with SLF | ETH Zurich] https://ethz.ch/en/the-eth-zurich/global/network/eth-studios/eth-studio-davos/data-science-internships-with-slf.html
+- [ETH Zurich, Suiza – Laboratorio: Master Robotics, Systems and Control | ETH Zurich] https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html
+- [ETH Zurich, Suiza – Laboratorio: ETH Robotics Student Fellowship | ETH Zurich] https://ethz.ch/en/studies/non-degree-courses/summer-offers/summer-projects/eth-robotics-student-fellowship.html
+- [ETH Zurich, Suiza – Laboratorio: Cyber and Information Security (CISEC) | ETH Zurich] https://ethz.ch/en/the-eth-zurich/organisation/departments/informatikdienste/personen/cyber-and-information-security-a-z.html
+- [ETH Zurich, Suiza – Laboratorio: Safety, Security, Health and Environment | ETH Zurich] https://ethz.ch/en/the-eth-zurich/organisation/departments/safety-security-health-environment.html
+- [ETH Zurich, Suiza – Programa: Bachelor Computer Science | ETH Zurich] https://ethz.ch/computer-science
+- [ETH Zurich, Suiza – Programa: Bachelor Mathematics | ETH Zurich] https://ethz.ch/mathematics
+- [ETH Zurich, Suiza – Beca Internacional: Swiss Government Excellence Scholarships] https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html
+- [ETH Zurich, Suiza – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [ETH Zurich, Suiza – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [ETH Zurich, Suiza – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [ETH Zurich, Suiza – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [ETH Zurich, Suiza – Requisitos de admisión] https://ethz.ch/en.html/admissions
+- [ETH Zurich, Suiza – Costo de vida en Zurich] https://www.numbeo.com/cost-of-living/in/Zurich
+- [ETH Zurich, Suiza – Resultados de egresados] https://ethz.ch/en.html/career
+- [EPFL, Suiza – QS Ranking] https://www.topuniversities.com/universities/epfl,-suiza
+- [EPFL, Suiza – About page] https://www.epfl.ch/about/
+- [EPFL, Suiza – información general] https://www.epfl.ch/en/
+- [EPFL, Suiza – Laboratorio: News People - EPFL] https://actu.epfl.ch/search/people/
+- [EPFL, Suiza – Laboratorio: Working at EPFL ‐ EPFL] https://www.epfl.ch/about/working/fr/
+- [EPFL, Suiza – Programa: Informatique ‒ Services et ressources ‐ EPFL] https://www.epfl.ch/informatique
+- [EPFL, Suiza – Beca Internacional: Swiss Government Excellence Scholarships] https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html
+- [EPFL, Suiza – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [EPFL, Suiza – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [EPFL, Suiza – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [EPFL, Suiza – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [EPFL, Suiza – Requisitos de admisión] https://www.epfl.ch/en//admissions
+- [EPFL, Suiza – Costo de vida en Lausanne] https://www.numbeo.com/cost-of-living/in/Lausanne
+- [EPFL, Suiza – Resultados de egresados] https://www.epfl.ch/en//career
+- [University of Zurich, Suiza – QS Ranking] https://www.topuniversities.com/universities/university-of-zurich,-suiza
+- [University of Zurich, Suiza – información general] https://www.uzh.ch/en.html
+- [University of Zurich, Suiza – Laboratorio: Artificial Intelligence | University of Zurich | UZH] https://www.uzh.ch/en/studies/programs/master/artificial_intelligence.html
+- [University of Zurich, Suiza – Laboratorio: Angewandte Mathematik und Machine Learning | University of Zurich | UZH] https://www.uzh.ch/en/studies/programs/bachelor/Angewandte-Mathematik-und-Machine-Learning.html
+- [University of Zurich, Suiza – Laboratorio: Data Science | University of Zurich | UZH] https://www.uzh.ch/en/studies/programs/master/data_science.html
+- [University of Zurich, Suiza – Laboratorio: Pestalozzi and the Robots. Education in the Age of Technology. | University of Zurich | UZH] https://www.uzh.ch/en/events/events/rv/archiv/2020hs/uzhi-2.html
+- [University of Zurich, Suiza – Laboratorio: Computational Linguistics and Language Technology | University of Zurich | UZH] https://www.uzh.ch/en/studies/programs/master/computerlinguistics_language_technology.html
+- [University of Zurich, Suiza – Laboratorio: Digital Humanities und Text Mining | University of Zurich | UZH] https://www.uzh.ch/en/studies/programs/bachelor/digital_humanities_text_mining.html
+- [University of Zurich, Suiza – Programa: | Institut für Betriebswirtschaftslehre | UZH] https://www.uzh.ch/business
+- [University of Zurich, Suiza – Beca: Today
+
+
+ 16:15 Uhr
+
+
+
+Being Watched: Migrants Returning from the USA to Mexico
+
+
+
+More
+
+
+
+
+More] https://www.uzh.ch/en.html/scholarships
+- [University of Zurich, Suiza – Beca Internacional: Swiss Government Excellence Scholarships] https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html
+- [University of Zurich, Suiza – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [University of Zurich, Suiza – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of Zurich, Suiza – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [University of Zurich, Suiza – Requisitos de admisión] https://www.uzh.ch/en.html/admissions
+- [University of Zurich, Suiza – Costo de vida en Zurich] https://www.numbeo.com/cost-of-living/in/Zurich
+- [University of Zurich, Suiza – Resultados de egresados] https://www.uzh.ch/en.html/career
+- [University of Geneva, Suiza – QS Ranking] https://www.topuniversities.com/universities/university-of-geneva,-suiza
+- [University of Geneva, Suiza – About page] https://www.unige.ch/en/university/presentation/
+- [University of Geneva, Suiza – información general] https://www.unige.ch/en/
+- [University of Geneva, Suiza – Programa: Statistics - Bureau des données institutionnelles et décisionnelles - UNIGE] https://www.unige.ch/stat/welcome
+- [University of Geneva, Suiza – Laboratorio: Conflicts and freedom of expression, position of the UNIGE - Université de Genève] http://www.unige.ch/en/university/conflicts-and-freedom-expression-position-unige/
+- [University of Geneva, Suiza – Laboratorio: Cookie Notices and Cookie Consent | Cookiepedia] https://cookiepedia.co.uk/giving-consent-to-cookies
+- [University of Geneva, Suiza – Beca Internacional: Swiss Government Excellence Scholarships] https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html
+- [University of Geneva, Suiza – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [University of Geneva, Suiza – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of Geneva, Suiza – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [University of Geneva, Suiza – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [University of Geneva, Suiza – Requisitos de admisión] https://www.unige.ch/en//admissions
+- [University of Geneva, Suiza – Costo de vida en Geneva] https://www.numbeo.com/cost-of-living/in/Geneva
+- [University of Geneva, Suiza – Resultados de egresados] https://www.unige.ch/en//career
+- [Università della Svizzera italiana, Suiza – QS Ranking] https://www.topuniversities.com/universities/università-della-svizzera-italiana,-suiza
+- [Università della Svizzera italiana, Suiza – About page] https://www.usi.ch/en/university/faculties-and-institutes
+- [Università della Svizzera italiana, Suiza – información general] https://www.usi.ch/en
+- [Università della Svizzera italiana, Suiza – Laboratorio: Master in Artificial Intelligence | USI.ch] https://www.usi.ch/en/originalnode/354
+- [Università della Svizzera italiana, Suiza – Laboratorio: Sostenibilità | USI] https://www.usi.ch/en/university/what-we-do/sustainability
+- [Università della Svizzera italiana, Suiza – Laboratorio: Bachelor in Data Science | USI.ch] https://www.usi.ch/en/education/bachelor/data-science
+- [Università della Svizzera italiana, Suiza – Laboratorio: General Personal Data Protection Notice | USI] https://www.usi.ch/en/originalnode/36960
+- [Università della Svizzera italiana, Suiza – Programa: Master in Financial Technology and Computing | USI.ch] https://www.usi.ch/en/originalnode/358
+- [Università della Svizzera italiana, Suiza – Programa: Bachelor in Informatics | USI.ch] https://www.usi.ch/en/education/bachelor/informatics
+- [Università della Svizzera italiana, Suiza – Programa: Master in Management and Informatics | USI.ch] https://www.usi.ch/en/originalnode/357
+- [Università della Svizzera italiana, Suiza – Programa: Master in Artificial Intelligence | USI.ch] https://www.usi.ch/en/originalnode/354
+- [Università della Svizzera italiana, Suiza – Programa: Bachelor in Data Science | USI.ch] https://www.usi.ch/en/education/bachelor/data-science
+- [Università della Svizzera italiana, Suiza – Beca Internacional: Swiss Government Excellence Scholarships] https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html
+- [Università della Svizzera italiana, Suiza – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Università della Svizzera italiana, Suiza – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Università della Svizzera italiana, Suiza – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Università della Svizzera italiana, Suiza – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Università della Svizzera italiana, Suiza – Costo de vida en Lugano] https://www.numbeo.com/cost-of-living/in/Lugano
+- [Università della Svizzera italiana, Suiza – Resultados de egresados] https://www.usi.ch/en/career
+- [Delft University of Technology, Países Bajos – About page] https://www.tudelft.nl/en/about-tu-delft/calendar
+- [Delft University of Technology, Países Bajos – información general] https://www.tudelft.nl/en/
+- [Delft University of Technology, Países Bajos – Laboratorio: Cookie policy] https://www.tudelft.nl/en/cookie-policy
+- [Delft University of Technology, Países Bajos – Laboratorio: Disclaimer] https://www.tudelft.nl/en/disclaimer
+- [Delft University of Technology, Países Bajos – Laboratorio: Privacy & Security] https://www.tudelft.nl/en/privacy-and-security
+- [Delft University of Technology, Países Bajos – Programa: MSc Computer Science] https://www.tudelft.nl/msc/cs
+- [Delft University of Technology, Países Bajos – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Delft University of Technology, Países Bajos – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Delft University of Technology, Países Bajos – Beca Internacional: Holland Scholarship] https://www.studyinholland.nl/finances/holland-scholarship
+- [Delft University of Technology, Países Bajos – Requisitos de admisión] https://www.tudelft.nl/en//admissions
+- [Delft University of Technology, Países Bajos – Costo de vida en Delft] https://www.numbeo.com/cost-of-living/in/Delft
+- [Delft University of Technology, Países Bajos – Resultados de egresados] https://www.tudelft.nl/en//career
+- [University of Amsterdam, Países Bajos – QS Ranking] https://www.topuniversities.com/universities/university-of-amsterdam,-países-bajos
+- [University of Amsterdam, Países Bajos – About page] https://www.uva.nl/en/about-the-uva/about-the-uva.html
+- [University of Amsterdam, Países Bajos – información general] https://www.uva.nl/en
+- [University of Amsterdam, Países Bajos – Laboratorio: Outlook] https://outlook.office365.com/
+- [University of Amsterdam, Países Bajos – Laboratorio: Privacy Statement - University of Amsterdam] https://www.uva.nl/en/home/disclaimers/privacy.html
+- [University of Amsterdam, Países Bajos – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [University of Amsterdam, Países Bajos – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [University of Amsterdam, Países Bajos – Beca Internacional: Holland Scholarship] https://www.studyinholland.nl/finances/holland-scholarship
+- [University of Amsterdam, Países Bajos – Costo de vida en Amsterdam] https://www.numbeo.com/cost-of-living/in/Amsterdam
+- [Eindhoven University of Technology, Países Bajos – QS Ranking] https://www.topuniversities.com/universities/eindhoven-university-of-technology,-países-bajos
+- [Eindhoven University of Technology, Países Bajos – About page] https://www.tue.nl/en/our-university
+- [Eindhoven University of Technology, Países Bajos – información general] https://www.tue.nl/en/
+- [Eindhoven University of Technology, Países Bajos – Laboratorio: TU/e's AI research | Eindhoven Artificial Intelligence Systems Institute] https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute
+- [Eindhoven University of Technology, Países Bajos – Laboratorio: Artificial Intelligence] https://www.tue.nl/en/research/research-areas/artificial-intelligence
+- [Eindhoven University of Technology, Países Bajos – Laboratorio: Data Science] https://www.tue.nl/en/research/research-areas/data-science
+- [Eindhoven University of Technology, Países Bajos – Laboratorio: Eindhoven Hendrik Casimir Institute] https://www.tue.nl/en/research/institutes/eindhoven-hendrik-casimir-institute
+- [Eindhoven University of Technology, Países Bajos – Laboratorio: Robotics] https://www.tue.nl/en/research/research-areas/robotics
+- [Eindhoven University of Technology, Países Bajos – Laboratorio: Privacy] https://www.tue.nl/en/our-university/about-the-university/support-services/library-and-information-services/privacy
+- [Eindhoven University of Technology, Países Bajos – Laboratorio: Data Science Summit 2019] https://www.tue.nl/en/research/research-areas/data-science/data-science-summit-2019
+- [Eindhoven University of Technology, Países Bajos – Laboratorio: Social Robotics Lab] https://www.tue.nl/en/research/research-areas/humans-and-technology/social-robotics-lab
+- [Eindhoven University of Technology, Países Bajos – Laboratorio: Safety, security and integrity] https://www.tue.nl/en/our-university/about-the-university/security
+- [Eindhoven University of Technology, Países Bajos – Programa: Control Systems] https://www.tue.nl/cs
+- [Eindhoven University of Technology, Países Bajos – Beca Internacional: Erasmus Mundus Joint Master Degrees] https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships
+- [Eindhoven University of Technology, Países Bajos – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Eindhoven University of Technology, Países Bajos – Beca Internacional: Holland Scholarship] https://www.studyinholland.nl/finances/holland-scholarship
+- [Eindhoven University of Technology, Países Bajos – Costo de vida en Eindhoven] https://www.numbeo.com/cost-of-living/in/Eindhoven
+- [Leiden University, Países Bajos – QS Ranking] https://www.topuniversities.com/universities/leiden-university,-países-bajos
+- [Leiden University, Países Bajos – About page] https://www.universiteitleiden.nl/en/about-us
+- [Leiden University, Países Bajos – información general] https://www.universiteitleiden.nl/en
+- [Leiden University, Países Bajos – Laboratorio: The future of AI is human - Leiden University] https://www.universiteitleiden.nl/en/artificial-intelligence
+- [Leiden University, Países Bajos – Laboratorio: Governance and Global Affairs - Leiden University] https://www.universiteitleiden.nl/en/research/research-institutes/governance-and-global-affairs
+- [Leiden University, Países Bajos – Laboratorio: Institute of Security and Global Affairs - Leiden University] https://www.universiteitleiden.nl/en/research/research-institutes/governance-and-global-affairs/institute-of-security-and-global-affairs
+- [Leiden University, Países Bajos – Laboratorio: Privacy Notice - Leiden University] https://www.organisatiegids.universiteitleiden.nl/en/regulations/general/privacy-statements
+- [Leiden University, Países Bajos – Programa: Computer Science at Leiden University - Leiden University] https://www.universiteitleiden.nl/computerscience
+- [Leiden University, Países Bajos – Programa: 404 Pagina niet gevonden - Universiteit Leiden] https://www.universiteitleiden.nl/msc/analytics
+- [Leiden University, Países Bajos – Programa: 404 Pagina niet gevonden - Universiteit Leiden] https://www.universiteitleiden.nl/msc/mathematics
+- [Leiden University, Países Bajos – Beca: Ferial Chummun Scholarship in Astronomy] https://www.universiteitleiden.nl/en/scholarships
+- [Leiden University, Países Bajos – Beca: Children’s Rights Scholarship 2] https://www.universiteitleiden.nl/en/scholarships
+- [Leiden University, Países Bajos – Beca: Leiden University Fund - Lutfia Rabbani Scholarship Fund] https://www.universiteitleiden.nl/en/scholarships
+- [Leiden University, Países Bajos – Beca: LDE Governance of Migration and Diversity Seed Fund] https://www.universiteitleiden.nl/en/scholarships
+- [Leiden University, Países Bajos – Beca: CSC-Leiden University Scholarship] https://www.universiteitleiden.nl/en/scholarships
+- [Leiden University, Países Bajos – Requisitos de admisión] https://www.universiteitleiden.nl/en/graduate/admissions
+- [Leiden University, Países Bajos – Costo de vida en Leiden] https://www.numbeo.com/cost-of-living/in/Leiden
+- [Leiden University, Países Bajos – Resultados de egresados] https://www.universiteitleiden.nl/en/career
+- [Utrecht University, Países Bajos – QS Ranking] https://www.topuniversities.com/universities/utrecht-university,-países-bajos
+- [Utrecht University, Países Bajos – About page] https://www.uu.nl/en/research/research-at-utrecht-university
+- [Utrecht University, Países Bajos – información general] https://www.uu.nl/en
+- [Utrecht University, Países Bajos – Laboratorio: Sustainable Development Goals - Utrecht University] https://www.uu.nl/en/research/sustainable-development-goals
+- [Utrecht University, Países Bajos – Laboratorio: So We Think UU Can Blog - Research - Utrecht University] https://www.uu.nl/en/research/research-at-utrecht-university/support-for-researchers/online-blog-training-for-researchers
+- [Utrecht University, Países Bajos – Laboratorio: Privacy - Organisation - Utrecht University] https://www.uu.nl/en/organisation/practical-matters/privacy
+- [Utrecht University, Países Bajos – Beca: Utrecht Excellence Scholarships] https://www.uu.nl/en/scholarships
+- [Utrecht University, Países Bajos – Beca: Student grant and loan system] https://www.uu.nl/en/scholarships
+- [Utrecht University, Países Bajos – Beca: NL Scholarship] https://www.uu.nl/en/scholarships
+- [Utrecht University, Países Bajos – Beca: Bright Minds Fellowships] https://www.uu.nl/en/scholarships
+- [Utrecht University, Países Bajos – Beca: UES - Law, Economics and Governance International Talent Scholarship] https://www.uu.nl/en/scholarships
+- [Utrecht University, Países Bajos – Costo de vida en Utrecht] https://www.numbeo.com/cost-of-living/in/Utrecht
+- [Utrecht University, Países Bajos – Resultados de egresados] https://www.uu.nl/en/careers
+- [Universidad Nacional Autónoma de México, México – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Universidad Nacional Autónoma de México, México – Costo de vida en Ciudad de México] https://www.numbeo.com/cost-of-living/in/Ciudad-de-México
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – QS Ranking] https://www.topuniversities.com/universities/instituto-tecnológico-y-de-estudios-superiores-de-monterrey,-méxico
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – About page] https://tec.mx/en/about-us
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – información general] https://tec.mx/en
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – Laboratorio: Institute of Advanced Materials for Sustainable Manufacturing | Tecnológico de Monterrey] https://tec.mx/en/research/institute-advanced-materials-sustainable-manufacturing
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – Laboratorio: What is the Core Lab Data Science? | Tecnológico de Monterrey] https://tec.mx/en/research/core-lab-data-science
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – Laboratorio: Privacy Policies for Tecnológico de Monterrey | Tecnológico de Monterrey] https://tec.mx/en/privacy-policies-tecnologico-de-monterrey
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – Laboratorio: Privacy Notices | Tecnológico de Monterrey] https://tec.mx/en/privacy-notices
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – Programa: EGADE Business School | Tec de Monterrey] https://tec.mx/mba
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – Requisitos de admisión] https://tec.mx/en/admissions
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – Costo de vida en Monterrey] https://www.numbeo.com/cost-of-living/in/Monterrey
+- [Instituto Tecnológico y de Estudios Superiores de Monterrey, México – Laboratorio: Inteligencia artificial avanzada | Tecnológico de Monterrey] https://tec.mx/es/investigacion/inteligencia-artificial-avanzada
+- [Instituto Politécnico Nacional, México – QS Ranking] https://www.topuniversities.com/universities/instituto-politécnico-nacional,-méxico
+- [Instituto Politécnico Nacional, México – información general] https://www.ipn.mx/
+- [Instituto Politécnico Nacional, México – Laboratorio: Conoce Nuestra Transparencia Politécnica - IPN] https://www.ipn.mx/transparencia/
+- [Instituto Politécnico Nacional, México – Laboratorio: Estudiantes Instituto Politécnico Nacional - IPN] https://www.ipn.mx/comunidad/estudiantes/
+- [Instituto Politécnico Nacional, México – Laboratorio: Notas de Vinculación - Comunicado - IPN] https://ipn.mx/imageninstitucional/vinculacion/ver-comunicado.html?y=2025&n=1&t=15&u=10
+- [Instituto Politécnico Nacional, México – Laboratorio: Términos y condiciones de uso del portal | gob.mx] https://www.gob.mx/terminos#medidas-seguridad-informacion
+- [Instituto Politécnico Nacional, México – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Instituto Politécnico Nacional, México – Costo de vida en Ciudad de México] https://www.numbeo.com/cost-of-living/in/Ciudad-de-México
+- [Universidad Iberoamericana, México – Laboratorio: | Posgrados IBERO] http://posgrados.ibero.mx/
+- [Universidad Iberoamericana, México – Laboratorio: Licenciaturas Portada | IBERO] https://ibero.mx/licenciaturas-portada
+- [Universidad Iberoamericana, México – Laboratorio: Aviso legal y de privacidad | IBERO] https://ibero.mx/aviso_legal_y_de_privacidad
+- [Universidad Iberoamericana, México – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Universidad Iberoamericana, México – Costo de vida en Ciudad de México] https://www.numbeo.com/cost-of-living/in/Ciudad-de-México
+- [Universidad Autónoma Metropolitana, México – QS Ranking] https://www.topuniversities.com/universities/universidad-autónoma-metropolitana,-méxico
+- [Universidad Autónoma Metropolitana, México – información general] http://www.uam.mx/
+- [Universidad Autónoma Metropolitana, México – Beca Internacional: CONACYT Scholarships] https://www.conacyt.mx/
+- [Universidad Autónoma Metropolitana, México – Costo de vida en Ciudad de México] https://www.numbeo.com/cost-of-living/in/Ciudad-de-México
+- [Pontificia Universidad Católica de Chile, Chile – QS Ranking] https://www.topuniversities.com/universities/pontificia-universidad-católica-de-chile,-chile
+- [Pontificia Universidad Católica de Chile, Chile – About page] https://www.uc.cl/en/about-uc/our-campuses/central-campus/
+- [Pontificia Universidad Católica de Chile, Chile – información general] https://www.uc.cl/en
+- [Pontificia Universidad Católica de Chile, Chile – Laboratorio: Outlook] https://outlook.office.com/mail/
+- [Pontificia Universidad Católica de Chile, Chile – Programa: Dirección de Informática] https://www.uc.cl/informatica
+- [Pontificia Universidad Católica de Chile, Chile – Laboratorio: Huiro Regenerativo: Growing Seaweed for Sustainable Development] https://www.uc.cl/en/news/huiro-regenerativo-growing-seaweed-for-sustainable-development/
+- [Pontificia Universidad Católica de Chile, Chile – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Pontificia Universidad Católica de Chile, Chile – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Pontificia Universidad Católica de Chile, Chile – Costo de vida en Santiago] https://www.numbeo.com/cost-of-living/in/Santiago
+- [Universidad de Chile, Chile – QS Ranking] https://www.topuniversities.com/universities/universidad-de-chile,-chile
+- [Universidad de Chile, Chile – About page] https://www.uchile.cl/english-version/international-relations/information-about-the-revalidation-and-recognition-processes
+- [Universidad de Chile, Chile – información general] https://www.uchile.cl/english
+- [Universidad de Chile, Chile – Laboratorio: Facultad de Ciencias - Universidad de Chile] https://ciencias.uchile.cl
+- [Universidad de Chile, Chile – Laboratorio: Estudiantes - Universidad de Chile] https://www.uchile.cl/estudiantes
+- [Universidad de Chile, Chile – Laboratorio: Política de Privacidad de la Información y Datos Personales de la Universidad de Chile - Universidad de Chile] https://www.uchile.cl/informacion-general/politica-de-privacidad-de-la-informacion-y-datos-personales
+- [Universidad de Chile, Chile – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Universidad de Chile, Chile – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Universidad de Chile, Chile – Costo de vida en Santiago] https://www.numbeo.com/cost-of-living/in/Santiago
+- [Universidad de Santiago de Chile, Chile – Laboratorio: Bienestar Estudiantil | Universidad de Santiago de Chile] https://www.usach.cl/bienestar-estudiantil
+- [Universidad de Santiago de Chile, Chile – Laboratorio: Contraloría Universitaria | Universidad de Santiago de Chile |] http://www.contraloriausach.cl/
+- [Universidad de Santiago de Chile, Chile – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Universidad de Santiago de Chile, Chile – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Universidad de Santiago de Chile, Chile – Costo de vida en Santiago] https://www.numbeo.com/cost-of-living/in/Santiago
+- [Universidad Adolfo Ibáñez, Chile – QS Ranking] https://www.topuniversities.com/universities/universidad-adolfo-ibáñez,-chile
+- [Universidad Adolfo Ibáñez, Chile – información general] https://www.uai.cl/en/
+- [Universidad Adolfo Ibáñez, Chile – Laboratorio: - YouTube] https://www.youtube.com/watch?v=SqjGBdfmoao&list=PLLiNBY434b1t8LN-fH5buHodGuJPB3QJo
+- [Universidad Adolfo Ibáñez, Chile – Laboratorio: UAI | Crecer +] https://www.uai.cl/unidades/direccion-de-comunicaciones-y-marketing/material-corporativo/
+- [Universidad Adolfo Ibáñez, Chile – Laboratorio: AI Powered Robotics - Universidad Adolfo Ibáñez] https://internacional.uai.cl/ai-powered-robotics/
+- [Universidad Adolfo Ibáñez, Chile – Programa: UAI | Crecer +] https://www.uai.cl/cs
+- [Universidad Adolfo Ibáñez, Chile – Programa: UAI | Crecer +] https://www.uai.cl/business
+- [Universidad Adolfo Ibáñez, Chile – Programa: UAI | Crecer +] https://www.uai.cl/math
+- [Universidad Adolfo Ibáñez, Chile – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Universidad Adolfo Ibáñez, Chile – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Universidad Adolfo Ibáñez, Chile – Requisitos de admisión] https://www.uai.cl/en//admissions
+- [Universidad Adolfo Ibáñez, Chile – Costo de vida en Viña del Mar] https://www.numbeo.com/cost-of-living/in/Viña-del-Mar
+- [Universidad Adolfo Ibáñez, Chile – Resultados de egresados] https://www.uai.cl/en//career
+- [Universidad Técnica Federico Santa María, Chile – QS Ranking] https://www.topuniversities.com/universities/universidad-técnica-federico-santa-maría,-chile
+- [Universidad Técnica Federico Santa María, Chile – información general] https://www.usm.cl/en/
+- [Universidad Técnica Federico Santa María, Chile – Laboratorio: Historia - Universidad Técnica Federico Santa María] https://usm.cl/universidad/historia/
+- [Universidad Técnica Federico Santa María, Chile – Laboratorio: Enfoque curricular y competencias - Universidad Técnica Federico Santa María] https://usm.cl/universidad/modelo-educativo/enfoque-curricular/
+- [Universidad Técnica Federico Santa María, Chile – Laboratorio: Comité de Bioseguridad - Universidad Técnica Federico Santa María] https://usm.cl/comite-bioseguridad/
+- [Universidad Técnica Federico Santa María, Chile – Laboratorio: Política General de Privacidad y Uso de Datos Personales - Gobierno de Datos USM] https://gobiernodedatos.usm.cl/politica-de-privacidad/
+- [Universidad Técnica Federico Santa María, Chile – Programa: Inicio - Universidad Técnica Federico Santa María] https://www.usm.cl/cs
+- [Universidad Técnica Federico Santa María, Chile – Programa: Inicio - Universidad Técnica Federico Santa María] https://www.usm.cl/business
+- [Universidad Técnica Federico Santa María, Chile – Programa: Inicio - Universidad Técnica Federico Santa María] https://www.usm.cl/math
+- [Universidad Técnica Federico Santa María, Chile – Beca: Fundamentos] https://www.usm.cl/en//scholarships
+- [Universidad Técnica Federico Santa María, Chile – Beca Internacional: Colfuturo] https://www.colfuturo.org/
+- [Universidad Técnica Federico Santa María, Chile – Beca Internacional: ANID Becas Chile] https://www.anid.cl/capital-humano/becas-chile/
+- [Universidad Técnica Federico Santa María, Chile – Requisitos de admisión] https://www.usm.cl/en//admissions
+- [Universidad Técnica Federico Santa María, Chile – Costo de vida en Valparaíso] https://www.numbeo.com/cost-of-living/in/Valparaíso
+- [Universidad Técnica Federico Santa María, Chile – Resultados de egresados] https://www.usm.cl/en//career
